@@ -6,3 +6,7 @@
 
 # Python compiled bytecode
 __pycache__/
+
+# Other files to ignore
+.DS_Store
+*.log
