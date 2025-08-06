@@ -1,5 +1,5 @@
 Gemini Voice Assistant
-This project is a Python-based voice assistant that uses Flask to serve a webhook, Twilio to handle phone calls, and the Gemini API for conversational AI. It can place outbound calls to a user and interact with them in real-time.
+This project is a Python-based voice assistant that uses Flask to serve a webhook, Twilio to handle phone calls, and the Gemini API for conversational AI. It can place outbound calls to a user and interact with them in real-time. The user can also call Twilio once the nGrok URL is updated in their Twilio webhook handling settings.
 
 Prerequisites
 Python 3.7+ installed on your system.
