@@ -2,7 +2,7 @@
 Real time STT from microphone using deepgram API:
  - Now accepts audio chunks externally through twilio
  - Sends to Deepgrams
- - Prints finalized transcriptions
+ - Prints finalized transcription
 
 """
 
